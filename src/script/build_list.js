@@ -17,15 +17,15 @@ const header = (entries, date, comment) => {
 		comment +
 		' Description: Simple and small list with the most popular advertising, tracking, analytics and social advertising services\n' +
 		comment +
-		' Homepage: https://github.com/d3ward/toolz\n' +
+		' Homepage: https://github.com/yafia/toolz\n' +
 		comment +
 		' License: CC BY-NC-SA\n' +
 		comment +
-		' Source: https://github.com/d3ward/toolz/blob/master/src/d3host' +
+		' Source: https://github.com/yafia/toolz/blob/master/src/d3host' +
 		ext +
 		'\n\n' +
 		comment +
-		' This list cover all the tests on https://d3ward.github.io/toolz/adblock\n' +
+		' This list cover all the tests on https://yafia.github.io/toolz/adblock\n' +
 		comment +
 		' Type : Stable\n' +
 		comment +
@@ -94,7 +94,7 @@ function build(obj, comment, pre, post) {
 	})
 	if (pre == '||')
 		txt +=
-			'\n*$3p,domain=d3ward.github.io\n/pagead.js$domain=d3ward.github.io\n@@*$redirect-rule,domain=d3ward.github.io\nd3ward.github.io##.textads'
+			'\n*$3p,domain=yafia.github.io\n/pagead.js$domain=yafia.github.io\n@@*$redirect-rule,domain=yafia.github.io\nyafia.github.io##.textads'
 	const date = new Date()
 	const d =
 		date.getDate() + '/' + (date.getMonth() + 1) + '/' + date.getFullYear()

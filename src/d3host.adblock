@@ -1,11 +1,11 @@
 ! Title: d3Host List by d3ward
 ! Expires: 1 days
 ! Description: Simple and small list with the most popular advertising, tracking, analytics and social advertising services
-! Homepage: https://github.com/d3ward/toolz
+! Homepage: https://github.com/yafia/toolz
 ! License: CC BY-NC-SA
-! Source: https://github.com/d3ward/toolz/blob/master/src/d3host.adblock
+! Source: https://github.com/yafia/toolz/blob/master/src/d3host.adblock
 
-! This list cover all the tests on https://d3ward.github.io/toolz/adblock
+! This list cover all the tests on https://yafia.github.io/toolz/adblock
 ! Type : Stable
 ! Entries : 131
 ! Updated On: 23/5/2024
@@ -219,7 +219,7 @@
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
 
-*$3p,domain=d3ward.github.io
-/pagead.js$domain=d3ward.github.io
-@@*$redirect-rule,domain=d3ward.github.io
-d3ward.github.io##.textads
+*$3p,domain=yafia.github.io
+/pagead.js$domain=yafia.github.io
+@@*$redirect-rule,domain=yafia.github.io
+yafia.github.io##.textads
