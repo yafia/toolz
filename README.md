@@ -1,7 +1,7 @@
-# Adblock Test - Partial Fork of AdBlockTester from @d3ward
+# Adblock Test - Partial Fork of toolz from @d3ward
 
 
-This Project is a partial fork of AdBlockTester from @d3ward . Who recently archived the project. I forked it for the Ad Block Test as it is a useful tool I work with.
+This Project is a partial fork of toolz from @d3ward . Who recently archived the project. I forked it for the Ad Block Test as it is a useful tool I work with.
 
 ## Ad Block Test  [Link](https://yafia.github.io/AdBlockTester/adblock)
 This tool allows you to check if your adblock solution is blocking enough hosts. With a simple UI and easy UX you can check how much you have blocked. The tool tries to connect to the most common domains for different categories (ads, analytics, bug tracking, social trackers, mix and OEMs).
