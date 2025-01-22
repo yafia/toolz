@@ -12,7 +12,7 @@ module.exports = merge(main, {
 		compress: true,
 		port: 3000,
 		hot: true,
-		open: '/AdBlockTester/',
+		open: '/toolz/',
 		historyApiFallback: true
 	}
 })

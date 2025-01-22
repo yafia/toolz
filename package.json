@@ -1,5 +1,5 @@
 {
-  "name": "AdBlockTester",
+  "name": "toolz",
   "version": "3.1.2",
   "description": "A set of accessible web tools",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "Youssef Afia",
   "license": "(CC BY-NC-SA 4.0)",
   "bugs": {
-    "url": "https://github.com/yafia/AdBlockTester/issues"
+    "url": "https://github.com/yafia/toolz/issues"
   },
   "dependencies": {
     "@babel/core": "^7.22.5",

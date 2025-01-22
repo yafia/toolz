@@ -12,7 +12,7 @@ import { Snackbar } from './components/snackbar'
 import { LocalStorageManager } from './components/localStorage'
 const cd = document.querySelector('#dlg_changelog')
 const ch_dialog = new A11yDialog(cd)
-var TZ = new LocalStorageManager('AdBlockTester')
+var TZ = new LocalStorageManager('toolz')
 const version = packageJSON.version
 const tzversion = TZ.get('version')
 if (tzversion !== version) {
@@ -510,9 +510,9 @@ document.addEventListener('DOMContentLoaded', function () {
 		location.reload(true)
 	})
 	const stxt =
-		'https://raw.githubusercontent.com/yafia/AdBlockTester/master/src/d3host.txt'
+		'https://raw.githubusercontent.com/yafia/toolz/master/src/d3host.txt'
 	const sadblock =
-		'https://raw.githubusercontent.com/yafia/AdBlockTester/master/src/d3host.adblock'
+		'https://raw.githubusercontent.com/yafia/toolz/master/src/d3host.adblock'
 	document.querySelector('#d3H_txt').addEventListener('click', function () {
 		copyToClip(stxt)
 	})
