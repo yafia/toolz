@@ -17,7 +17,7 @@ module.exports = {
 		path: config.build,
 		clean: false,
 		assetModuleFilename: '[path][name][ext]',
-		publicPath: '/toolz/'
+		publicPath: '/AdBlockTester/'
 	},
 	plugins: [
 		new CopyWebpackPlugin({

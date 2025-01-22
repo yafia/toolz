@@ -17,15 +17,15 @@ const header = (entries, date, comment) => {
 		comment +
 		' Description: Simple and small list with the most popular advertising, tracking, analytics and social advertising services\n' +
 		comment +
-		' Homepage: https://github.com/yafia/toolz\n' +
+		' Homepage: https://github.com/yafia/AdBlockTester\n' +
 		comment +
 		' License: CC BY-NC-SA\n' +
 		comment +
-		' Source: https://github.com/yafia/toolz/blob/master/src/d3host' +
+		' Source: https://github.com/yafia/AdBlockTester/blob/master/src/d3host' +
 		ext +
 		'\n\n' +
 		comment +
-		' This list cover all the tests on https://yafia.github.io/toolz/adblock\n' +
+		' This list cover all the tests on https://yafia.github.io/AdBlockTester/adblock\n' +
 		comment +
 		' Type : Stable\n' +
 		comment +
