@@ -7,8 +7,8 @@ This Project is a partial fork of Toolz from @d3ward . Who recently archived the
 This tool allows you to check if your adblock solution is blocking enough hosts. With a simple UI and easy UX you can check how much you have blocked. The tool tries to connect to the most common domains for different categories (ads, analytics, bug tracking, social trackers, mix and OEMs).
 
 If you don't block all the hosts but you want to , you can use
-- My hosts txt list -> [d3Host.txt](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
-- Compressed adblock version -> [d3Host.adblock](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock)
+- My hosts txt list -> [d3Host.txt](https://raw.githubusercontent.com/yafia/toolz/master/src/d3host.txt)
+- Compressed adblock version -> [d3Host.adblock](https://raw.githubusercontent.com/yafia/toolz/master/src/d3host.adblock)
 
 d3Host list is also included in 
 - [Blokada](https://blokada.org/)
